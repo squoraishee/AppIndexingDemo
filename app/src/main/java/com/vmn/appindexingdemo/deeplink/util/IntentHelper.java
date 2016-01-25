@@ -10,8 +10,6 @@ import com.vmn.appindexingdemo.content.ui.ContentViewActivity;
  * In order to construct multiple intents, you want something that will return the appropriate intent
  * for a specific input.
  *
- * The Intent Helper is an example of a useful android pattern. What type of design pattern is it. Is
- * it a constructional pattern?
  */
 public class IntentHelper {
 
